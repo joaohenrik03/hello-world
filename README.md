@@ -5,5 +5,5 @@
  Aprendendo sobre __*Git & GitHub*__ no curso de Git e GitHub do [Curso em Vídeo](https://www.cursoemvideo.com/) feito pelo [Gustavo Guanabara](https://github.com/gustavoguanabara). :shipit:
 
 - [x] Readme.md
-- [ ] index.html
+- [x] index.html
 - [ ] style.css
