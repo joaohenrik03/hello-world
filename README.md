@@ -6,4 +6,4 @@
 
 - [x] Readme.md
 - [x] index.html
-- [ ] style.css
+- [x] style.css
